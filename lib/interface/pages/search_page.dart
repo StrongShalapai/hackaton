@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 
 class SearchPage extends StatefulWidget {
@@ -17,7 +19,7 @@ class _SearchPageState extends State<SearchPage> {
         backgroundColor: Colors.blueGrey,
       ),
       body: Center(
-        child: Text('Seacrh'),
+        child: Text('Search'),
       ),
     );
   }

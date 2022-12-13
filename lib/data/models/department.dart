@@ -1,5 +1,3 @@
-import 'package:hackaton/data/models/teacher.dart';
-
 class Department {
   int? departmentId;
   String? departmentName;

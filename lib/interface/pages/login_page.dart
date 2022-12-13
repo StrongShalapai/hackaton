@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:hackaton/interface/pages/choose_page.dart';
-import 'package:hackaton/interface/pages/main_page.dart';
 import 'package:hackaton/interface/widgets/text_field.dart';
 
 class LoginPage extends StatefulWidget {
