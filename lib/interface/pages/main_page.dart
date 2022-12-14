@@ -38,7 +38,8 @@ class _MainPageState extends State<MainPage> {
     'Блюменштейн Алексей Александрович',
     'Гисметулин Альберт Растемович',
     'Железнов Олег Владимирович',
-    'Ярдаева Маргарита Николаевна'
+    'Ярдаева Маргарита Николаевна',
+    'Евсеев Александр Николаевич'
   ];
   //
   bool showButton = false;
@@ -48,7 +49,7 @@ class _MainPageState extends State<MainPage> {
       appBar: AppBar(
         centerTitle: true,
         title: Text('Поиск по умолчанию'),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Coзlors.blueGrey,
       ),
       body: ListView(
         scrollDirection: Axis.vertical,
