@@ -49,7 +49,7 @@ class _MainPageState extends State<MainPage> {
       appBar: AppBar(
         centerTitle: true,
         title: Text('Поиск по умолчанию'),
-        backgroundColor: Coзlors.blueGrey,
+        backgroundColor: Colors.blueGrey,
       ),
       body: ListView(
         scrollDirection: Axis.vertical,
